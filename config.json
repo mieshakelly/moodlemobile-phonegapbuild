@@ -65,7 +65,7 @@
     "sitename": "Amity Learning",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
-    "forcedefaultlanguage": false,
+    "forcedefaultlanguage": true,
     "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
     "notificoncolor": "#f98012",
     "statusbarbg": false,
