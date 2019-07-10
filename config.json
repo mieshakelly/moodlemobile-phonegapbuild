@@ -1,6 +1,6 @@
 {
     "app_id": "life.amity.moodlemobile",
-    "appname": "Amity Learning Mobile",
+    "appname": "AmityLearn",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3700,
     "versionname": "3.7.0",
@@ -59,7 +59,6 @@
     "demo_sites": {}
     },
     "customurlscheme": "amitylearningmobile",
-    "siteurl": "http://amitylearning.life",
     "presets" : {"url": "http://amitylearning", "username": ""},
     "siteurl": "http://amitylearning.life/login/index.php",
     "sitename": "Amity Learning",
