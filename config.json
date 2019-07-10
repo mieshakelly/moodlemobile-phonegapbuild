@@ -60,7 +60,7 @@
     },
     "customurlscheme": "amitylearningmobile",
     "presets" : {"url": "http://amitylearning", "username": ""},
-    "siteurl": "http://amitylearning.life/login/index.php",
+    "siteurl": "http://amitylearning.life/login/",
     "sitename": "Amity Learning",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
