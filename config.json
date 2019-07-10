@@ -1,5 +1,5 @@
 {
-    "app_id": "life.Amity.moodlemobile",
+    "app_id": "life.amity.moodlemobile",
     "appname": "Amity Learning Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3700,
@@ -60,6 +60,7 @@
     },
     "customurlscheme": "amitylearningmobile",
     "siteurl": "http://amitylearning.life",
+    "presets" : {"url": "http://amitylearning", "username": ""},
     "sitename": "Amity Learning",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
